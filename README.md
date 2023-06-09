@@ -24,5 +24,10 @@ TextUtils is a text utilizer which helps you to analyze text in different ways.
 * You can copy the analyzed text.
 
 ## Example
+* Text Input
+
 ![Example](/examples/ex1.png)
+
+* Text Output
+
 ![Example](/examples/ex2.png)
